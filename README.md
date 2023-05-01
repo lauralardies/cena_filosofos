@@ -4,6 +4,9 @@ Mi dirección de GitHub para este repositorio es la siguiente: [GitHub](https://
 https://github.com/lauralardies/cena_filosofos
 
 ## Breve introducción
+Este ejercicio nos presenta el problema de la Cena de los Filósofos y cómo resolverlo.
+¿En qué consiste el **problema de la Cena de los Filósofos**?
+Existen 5 filósofos que van a tener que comer en un momento dado. Tienen una mesa con cinco platos y para comer bien necesitan usar dos cubiertos. Este problema es una metáfora de cómo se accede a los recursos que pueden ser necesitados por otros procesos. 
 
 ## Código 
 Todos los archivos están en una carpeta llamada `Cena_Filosofos`
