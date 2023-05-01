@@ -8,6 +8,8 @@ Este ejercicio nos presenta el problema de la Cena de los Filósofos y cómo res
 ¿En qué consiste el **problema de la Cena de los Filósofos**?
 Existen 5 filósofos que van a tener que comer en un momento dado. Tienen una mesa con cinco platos y para comer bien necesitan usar dos cubiertos. Este problema es una metáfora de cómo se accede a los recursos que pueden ser necesitados por otros procesos. 
 
+En este problema debemos representar a los filósofos y sus estados en una GUI (Interfaz de Usuario Gráfica) y mostrar cómo van coordinandose para que todos puedan comer.
+
 ## Código 
 Todos los archivos están en una carpeta llamada `Cena_Filosofos`
 
